@@ -1,0 +1,31 @@
+
+
+.navbar {
+    background-color: #fff !important;
+  }
+
+
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: #565387 !important;
+}
+
+.brand-name{
+    color: #3498db;
+}
+
+ #a{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
+
+#a:hover{
+    color: #3498db ;
+    border-bottom: 2px solid rgb(0, 162, 255) ;  
+}
+
+.menu-active{
+    font-weight: bold;
+    border-bottom: 2px solid rgb(0, 162, 255) ; 
+
+}
